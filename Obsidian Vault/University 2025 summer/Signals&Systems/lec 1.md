@@ -1,1 +1,0 @@
-Entropy measurement of chaos
