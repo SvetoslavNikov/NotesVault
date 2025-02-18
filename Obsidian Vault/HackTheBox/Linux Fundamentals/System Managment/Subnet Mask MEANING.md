@@ -1,0 +1,1 @@
+Think of an IP address like a street address. The **subnet mask** tells you which part of the address is the "street name" (network) and which part is the "house number" (device). For example, in `192.168.1.10` with `255.255.255.0`, `192.168.1` is the shared street, and `10` is the house number.

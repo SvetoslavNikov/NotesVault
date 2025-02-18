@@ -1,0 +1,1 @@
+jThe Internet is a global network of interconnected computers that communicate using the TCP/IP protocol suite to exchange data and provide services like web browsing, email, and file sharing.

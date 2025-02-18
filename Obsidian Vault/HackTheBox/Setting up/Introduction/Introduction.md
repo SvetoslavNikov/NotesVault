@@ -1,0 +1,1 @@
+It is paramount to be prepared with the proper, tailored tools and methods for each client's specific environment before the assessment and penetration test start.

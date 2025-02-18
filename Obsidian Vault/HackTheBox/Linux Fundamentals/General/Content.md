@@ -1,0 +1,1 @@
+![[Pasted image 20250203223918.png]][[Linux Fundamentals]]

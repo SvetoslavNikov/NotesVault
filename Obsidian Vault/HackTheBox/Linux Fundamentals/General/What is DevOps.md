@@ -1,0 +1,3 @@
+![[Pasted image 20250203190136.png]]![[Pasted image 20250203190214.png]]
+
+Constant learning of new infrastructure technologies, jack of all trades, constant learning and diving into unknown tools. Report unreasonable expectations, hard to explain benefits convincing boss...

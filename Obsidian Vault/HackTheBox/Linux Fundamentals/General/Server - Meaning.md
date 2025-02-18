@@ -1,0 +1,1 @@
+A server is a hardware or software system that listens for and processes client requests over a network, following specific protocols (e.g., HTTP, TCP/IP) to provide computing resources, data, or services.
